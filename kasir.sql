@@ -1,4 +1,4 @@
-<?php
+/*<?php
 $koneksi = new mysql('localhost', 'root','', 'kasir');
 if ($koneksi->connect_error) {
     die("Koneksi Gagal:" . $koneksi->connect_error);

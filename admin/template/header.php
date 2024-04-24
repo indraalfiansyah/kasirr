@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Kasir Toko H.Mesran</title>
+    <title>Kasir Toko H.Muhidin</title>
 
     <!-- Custom fonts for this template-->
     <link href="sb-admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">

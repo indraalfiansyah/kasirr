@@ -8,7 +8,7 @@
         <div class="container my-auto">
             <div class="copyright text-center my-auto">
                 <span>
-                    <?php?>Website Kasir © 2023. Toko H.mesran</a></b>
+                    <?php?>Website Kasir © 2023. Toko <H class="muhidin"></H></a></b>
                 </span>
             </div>
         </div>
