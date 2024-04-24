@@ -2,7 +2,7 @@
 /*
   | Source Code Aplikasi Penjualan produk Kasir dengan PHP & MYSQL
   |
-  | keterangan : untuk login aplikasi dengan username : admin dan password : 12345
+  | keterangan : untuk login aplikasi dengan username : admin dan password : 123
   | 
   | 
   | 
