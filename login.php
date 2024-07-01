@@ -39,6 +39,12 @@
         rel="stylesheet">
     <!-- Custom styles for this template-->
     <link href="sb-admin/css/sb-admin-2.min.css" rel="stylesheet">
+    <style>
+        .bg-gradient-primary {
+            background: url('https://i.postimg.cc/mrcdJnfm/BACKGROUND.jpg') no-repeat center center;
+            background-size: cover;
+        }
+    </style>
 </head>
 
 <body class="bg-gradient-primary">
